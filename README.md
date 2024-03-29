@@ -1,1 +1,1 @@
-Customized slab memory allowcator with interactived CLI.
+Customized slab memory allowcator.
